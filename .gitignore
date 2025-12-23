@@ -13,6 +13,7 @@ wheels/
 .venv
 batch.sh
 batch_jp.sh
+main.py
 
 
 # ignored project files
@@ -27,6 +28,7 @@ ITP/
 Masked_DDPM/
 results/
 SDM/
+# init_noise_diffusion_memorization/
 .config/
 .nv/
 

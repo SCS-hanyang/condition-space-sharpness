@@ -49,5 +49,4 @@ explicit = true
 
 [tool.uv.workspace]
 members = [
-    "brain-score",
 ]
