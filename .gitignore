@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.triton
+.cache
+
+
+# Virtual environments
+.venv
+batch.sh
+batch_jp.sh
+
+
+# ignored project files
+ELS_2/
+Generalization_through_variance/
+output/
+sharpness/
+ELS_2/out_dated/
+binary_Jacobian/
+critical_sigma/
+ITP/
+Masked_DDPM/
+results/
+SDM/
+.config/
+.nv/
+
