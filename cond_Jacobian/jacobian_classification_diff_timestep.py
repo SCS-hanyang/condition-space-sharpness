@@ -15,7 +15,7 @@ import argparse
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Paths
-BASE_DIR = "/home/gpuadmin/cssin/init_noise_diffusion_memorization"
+BASE_DIR = "/home/gpuadmin/cssin/cond_Jacobian"
 PROMPTS_DIR = os.path.join(BASE_DIR, "prompts")
 # OUTPUT_DIR will be defined in main loop
 
