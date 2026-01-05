@@ -1,0 +1,51 @@
+class_index,class_name,same_noun,synonym
+0,airplane,A giant airplane soaring through the blue sky, A commercial jet landing at sunset.
+0,airplane,A giant airplane soaring through the blue sky.,A small private plane flying over the mountains.
+0,airplane,An oil painting of a vintage airplane parked on a runway., 3D render of a military aircraft in a hangar.
+0,airplane,Detailed blueprint of a futuristic airplane design., A white glider floating peacefully among clouds.
+0,airplane,A paper airplane resting on a wooden desk., A black and white photo capturing a cargo flight.
+1,automobile, A shiny red automobile displayed at a car show., A fast sports car drifting on a race track.
+1,automobile, The mechanic is fixing a broken automobile in the garage., A luxury sedan parked in front of a hotel.
+1,automobile, Concept art of a flying automobile in a cyberpunk city., Heavy traffic with many vehicles stuck on the bridge.
+1,automobile, An antique automobile with polished chrome details., A dusty off-road jeep climbing a steep hill.
+1,automobile, A faded photo showing a classic automobile., A polaroid photo of my first car.
+2,bird, A colorful bird singing on a tree branch., A majestic eagle spreading its wings wide.
+2,bird, Silhouette of a bird flying against the moon., A cute parrot with bright green feathers.
+2,bird, A small bird building a nest in spring., A tiny sparrow hopping on the sidewalk.
+2,bird, Watercolor sketch of a tropical bird., An exotic feathered creature in a rainforest.
+2,bird, Close-up photo capturing a bird's eye., A wildlife photo of a hunting hawk.
+3,cat, A fluffy cat sleeping on a warm sofa., A tiny kitten drinking milk from a bowl.
+3,cat, A black cat staring at the rain through a window., A graceful feline walking along a fence.
+3,cat, Cute cartoon illustration of a cat playing with yarn., An angry stray hissing at a dog.
+3,cat, A ginger cat stretching in the sunlight., A sleepy tabby curled up in a basket.
+3,cat, A framed photo of a cat on the wall., A blurred photo of a running kitty. 
+4,deer, A wild deer grazing in a misty forest., A powerful stag roaring during the rutting season.
+4,deer, A young deer looking directly at the camera., A baby fawn hiding behind bushes.
+4,deer, Winter landscape with a deer standing in snow., A female doe protecting her young.
+4,deer, An artistic drawing of a deer with large antlers., A massive elk crossing a river stream.
+4,deer, A nature photo featuring a shy deer., A vintage photo of a hunted buck. 
+5,dog, A happy dog catching a frisbee in the park., A golden retriever puppy chewing on a shoe.
+5,dog, A wet dog shaking off water after a swim., A police canine training on an obstacle course.
+5,dog, Pencil sketch of a loyal dog waiting for its owner., A howling hound under the full moon.
+5,dog, A service dog wearing a vest in the city., A scruffy pooch looking for food.
+5,dog, A family photo with a large dog., An instant photo of a sleeping pup.
+6,frog, A green frog sitting on a lotus leaf., A bumpy toad resting in the mud.
+6,frog, A poisonous frog with bright patterns in the jungle., A small amphibian clinging to a wet rock.
+6,frog, Animated character of a dancing frog., Many tadpoles swimming in a glass jar.
+6,frog, A frog jumping into the water pond., A large bullfrog inflating its throat sac.
+6,frog, Macro photo focusing on a frog's skin texture., A scientific photo of a rare tree-dweller.
+7,horse, A white horse galloping on the beach., A black stallion rearing up on its hind legs.
+7,horse, A race horse crossing the finish line., A cute pony giving a ride to children.
+7,horse, An armored horse with a knight in a medieval setting., A mother mare nursing her foal.
+7,horse, A wild horse with a flowing mane., A magnificent equine standing in a stable.
+7,horse, A sepia photo of a cowboy and his horse., A blurry photo of a running steed. 
+8,ship, A pirate ship sailing on stormy seas., A small fishing boat bobbing on the waves.
+8,ship, A cargo ship loaded with colorful containers., A luxury yacht anchored near a tropical island.
+8,ship, A futuristic space ship leaving Earth's orbit., A naval vessel patrolling the coastline.
+8,ship, A sunken ship resting on the ocean floor., A passenger ferry crossing the harbor.
+8,ship, Aerial photo of a cruise ship., Old photo of a wooden sailboat.
+9,truck, A fire truck rushing to an emergency., A massive lorry driving on the highway.
+9,truck, A food truck selling tacos on the street., A rusty pickup parked in a barn.
+9,truck, A monster truck crushing old cars., A camper van driving through a forest road.
+9,truck, A delivery truck parked outside a house., An 18-wheeler semi hauling timber.
+9,truck, Wide-angle photo of a heavy truck., A grainy photo of an army transporter. 

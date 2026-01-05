@@ -4,7 +4,7 @@
 #SBATCH --account=ms
 #SBATCH --output=output/%A_%a_res.txt
 #SBATCH --error=output/%A_%a_err.txt
-#SBATCH --partition=main
+#SBATCH --partition=node1
 #SBATCH --ntasks-per-node=1
 #SBATCH --gres=gpu:1
 
